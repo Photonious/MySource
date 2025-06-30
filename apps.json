@@ -3,8 +3,8 @@
   "identifier": "com.photonious.source",
   "apps": [
     {
-      "name": "uYou Enhanced",
-      "bundleIdentifier": "com.photonious.uYouEnhanced",
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Photonious",
       "version": "20.25.4-3.0.4",
       "versionDate": "2025-06-29T12:00:00Z",
